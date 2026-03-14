@@ -99,5 +99,5 @@
 <img width="400" alt="З'єднання між собою Деталь 7 та основи універсального кейсу та корпусу станції" src="https://github.com/user-attachments/assets/8907d163-99d2-4073-bc44-3f348005b8da" />
 
 
-![]([посилання](https://github.com/ExperimentalDesignBureau-1571/fpv-ground-control-station/blob/main/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BA%D0%B5%D0%B9%D1%81_%D1%82%D0%B0_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%97/%D0%A4%D0%BE%D1%82%D0%BE/general_view_of_finished_cases.jpg)
+![Загальний вигляд](https://raw.githubusercontent.com/ExperimentalDesignBureau-1571/fpv-ground-control-station/main/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BA%D0%B5%D0%B9%D1%81_%D1%82%D0%B0_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%97/%D0%A4%D0%BE%D1%82%D0%BE/general_view_of_finished_cases.jpg)
 
