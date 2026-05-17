@@ -67,9 +67,9 @@
 | Тумблер 100DP1T1B1M1QEH або широкодоступний MTS-202 6 pin ON-ON | 4 штуки | SA1-SA4 (зверніть увагу що широкодоступні тумблери треба доробити для надійної комутації!) |
 | Потенціометр 1 кОм WH148 | 1 штука | Регулятор рівня відео |
 | Ручка для потенціометра WH148 | 1 штука | |
-| Відеопідсилювач - розгалуджувач VideoLink VA-Di-2/4 | 1 штука | Модуль Українського виробництва |
-| Перетворювач напруги GUTI ELECTRONICS BEC12S-PRO | 1 штука | Український аналог Matek BEC 12S PRO [придбати GUTI ELECTRONICS BEC12S-PRO у виробника](https://prom.ua/ua/p2814749849-otechestvennyj-analog-matek.html)  |
-| Перетворювач напруги GUTI ELECTRONICS mBEC12S | 1 штука | Український аналог Matek BEC 12S ([придбати GUTI ELECTRONICS mBEC12S у виробника](https://prom.ua/ua/p2814749850-otechestvennyj-analog-matek.html)|
+| Відеопідсилювач - розгалуджувач VideoLink VA-Di-2/4 | 1 штука | Модуль Українського виробництва [придбати VideoLink VA-Di-2/4 у виробника](https://sezam.video/shop/videopidsilyuvach-videolink-va-di-24/) |
+| Перетворювач напруги GUTI ELECTRONICS BEC12S-PRO | 1 штука | Український аналог Matek BEC 12S PRO [придбати GUTI ELECTRONICS BEC12S-PRO у виробника](https://prom.ua/ua/p2814749849-otechestvennyj-analog-matek.html) |
+| Перетворювач напруги GUTI ELECTRONICS mBEC12S | 1 штука | Український аналог Matek BEC 12S [придбати GUTI ELECTRONICS mBEC12S у виробника](https://prom.ua/ua/p2814749850-otechestvennyj-analog-matek.html) |
 | Вольтметр DSN-DVM-368 0-30В | 1 штука | |
 | Вилка блочна GX20-8 pin (male) | 1 штука | XS1 |
 | Вилка блочна GX12-6 pin (male) | 8 штук | XS2-XS9 |
