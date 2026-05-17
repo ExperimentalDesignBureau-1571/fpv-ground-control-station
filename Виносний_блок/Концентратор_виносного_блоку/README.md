@@ -50,8 +50,8 @@
 
 | Найменування | Кількість| Примітка |
 | :--- | :--- | :---: |
-| Відеопідсилювач VideoLink VA-Do-2/2 | 1 штука | Модуль Українського виробництва |
-| Перетворювач напруги GUTI ELECTRONICS mBEC12S | 1 штука | Український аналог Matek BEC 12S |
+| Відеопідсилювач VideoLink VA-Do-2/2 | 1 штука | Модуль Українського виробництва [придбати VideoLink VA-Do-2/2 у виробника](https://sezam.video/shop/videopidsilyuvach-z-simetrichnim-vihodom-aktivniy-balun-videolink-va-do-22/) |
+| Перетворювач напруги GUTI ELECTRONICS mBEC12S | 1 штука | Український аналог Matek BEC 12S [придбати GUTI ELECTRONICS mBEC12S у виробника](https://prom.ua/ua/p2814749850-otechestvennyj-analog-matek.html) |
 | Вилка блочна GX20-8 pin (male) | 1 штука | XS1 |
 | Вилка блочна GX12-6 pin (male) | 3 штуки | XS2-XS4 |
 | Фольгований склотекстоліт односторонній 1.5 мм | 34 мм х 16 мм | Плата шин живлення |
