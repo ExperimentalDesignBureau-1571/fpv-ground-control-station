@@ -1,4 +1,4 @@
-[🇺🇸 Read in English](README_EN.md) | [🇺🇦 Читати українською](README.md)
+[🇺🇸 Read in English](README_EN.md) | [🇺🇦 Читати Українською](README.md)
 
 # Наземна станція керування «ГАЛІТ» 
 
