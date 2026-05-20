@@ -22,7 +22,7 @@ It is recommended to follow this assembly and manufacturing order:
 6.	**[Control Subsystem](Підсистема%20керування/)**
 7.	**[Cables](Кабелі/)**
 
-## HALITE GCS Assembly & Manufacturing Video Guide
+## «HALITE» GCS Assembly & Manufacturing Video Guide
 
 [![GCS «HALITE» — Complete video assembly instructions](https://img.youtube.com/vi/9ohl-sQVgZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=9ohl-sQVgZU)
 
