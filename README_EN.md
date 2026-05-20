@@ -43,7 +43,7 @@ The use of materials in this repository is governed by the License Agreement, wh
 Materials are provided exclusively for technical, educational, research, or other non-commercial use.
 
 - Manufacturing products based on these materials is permitted solely for non-commercial use, specifically for the defense needs of Ukraine.
-- Any commercial use of the materials, their modifications, or products derived from them is prohibited without explicit written consent from DKB-1571.
+- Any commercial use of the materials, their modifications, or products derived from them is prohibited without explicit written consent from EDB-1571.
 - Re-distribution of these materials is not allowed. Only sharing links to the official EDB-1571 resources is permitted.
 - Materials are provided on an "as is" basis. Users assume all risks associated with their use.
 - Exclusive intellectual property rights to the materials belong to EDB-1571.
