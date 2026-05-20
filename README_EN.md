@@ -55,5 +55,7 @@ Please review the full version of the License Agreement in the LICENSE.md file w
 This project was created based on practical combat experience in FPV system operations.
 
 Engineer "Trolleybus" 
+
 Donetsk region, Ukraine
+
 2026
