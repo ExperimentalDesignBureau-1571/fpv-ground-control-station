@@ -1,3 +1,5 @@
+[🇺🇸 Read in English](README_EN.md) | [🇺🇦 Читати Українською](README.md)
+
 # «HALITE» Ground Control Station
 
 The «HALITE» Ground Control Station (GCS) for FPV drones is a modular system designed for reconfiguration based on specific mission requirements and operational conditions.
@@ -5,6 +7,8 @@ The «HALITE» Ground Control Station (GCS) for FPV drones is a modular system d
 <img width="800" alt="General view of GCS «HALITE»" src="assets/picture/ground_control_station_main_preview.jpg" />
 
 The station's architecture is built on the principle of functional separation of components, allowing for scalability and feature expansion by integrating additional modules without altering the base structure.
+
+<img width="800" alt="ARCHITECTURE OF THE GROUND CONTROL STATION «HALITE»" src="assets/block_diagram/ground_station_architecture_block_diagram_en.JPG" />
 
 The system was developed based on practical combat experience, considering component availability, maximum support for domestic manufacturers, and the feasibility of reproduction by technical personnel in field workshops, civilian, or volunteer settings with average equipment.
 
