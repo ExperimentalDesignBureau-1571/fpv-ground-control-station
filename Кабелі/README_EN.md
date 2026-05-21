@@ -143,6 +143,8 @@ The beginning of the cable connecting the TX unit to the external unit concentra
 <li>When manufacturing the cables, the connector housing inlet must be enlarged with a file according to the cable diameter.</li>
 </ul>
 
+<img width="600" alt="View of soldered connectors of cable set 2" src="picture/view_of_soldered_cable_connectors_set_2.jpg" />
+
 ### Required components for manufacturing one control subsystem cable set
 
 | Item | Quantity | Note |
