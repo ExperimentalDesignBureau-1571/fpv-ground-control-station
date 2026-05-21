@@ -32,3 +32,12 @@ This set is designed for the internal connection of the control subsystem compon
 </ul>
 
 <img width="600" alt="Soldering the connector on a Set 1 cable" src="picture/view_of_soldered_connector.jpg" />
+
+## List of Required Components for Manufacturing Cables
+
+| Name | Quantity | Note |
+| :--- | :--- | :---: |
+| GX20-8 pin Cable Socket (female) | 2 pcs | For the standard main cable |
+| GX12-6 pin Cable Socket (female) | 4 pcs | For control subsystem cables and coupler |
+| Shielded multi-core copper cable | as needed | Flexible twisted pair, e.g., LiYCY |
+| Heat shrink tubing (various colors) | as needed | For marking the "start" of the cable |
