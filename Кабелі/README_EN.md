@@ -6,7 +6,7 @@
 
 Shielded multi-core twisted pair copper cables are used to connect the station control unit with the external unit, as well as to connect peripheral devices to them.
 
-## Set 1 — Main cable set
+## Set 1 - Main cable set
 
 This set is intended for connecting the station control unit with the external unit.
 
@@ -17,8 +17,8 @@ The standard main cable has a length of 2 meters and is stored inside the statio
 Depending on operational requirements, the set can be supplemented with additional main cables, for example:
 
 <ul>
-<li>5–8 meter cable for relay operation from cover</li>
-<li>25–50 meter cable for stationary operation from cover</li>
+<li>5-8 meter cable for relay operation from cover</li>
+<li>25-50 meter cable for stationary operation from cover</li>
 </ul>
 
 The following cable types can be used for manufacturing the main cable set:
@@ -33,8 +33,8 @@ The following cable types can be used for manufacturing the main cable set:
 The maximum cable length depends on the cable type:
 
 <ul>
-<li>for cables with a conductor cross-section of 0.5 mm² — maximum length up to 50 meters</li>
-<li>for cables with a conductor cross-section of 0.25–0.3 mm² — maximum length up to 25 meters</li>
+<li>for cables with a conductor cross-section of 0.5 mm² - maximum length up to 50 meters</li>
+<li>for cables with a conductor cross-section of 0.25–0.3 mm² - maximum length up to 25 meters</li>
 </ul>
 
 <img width="800" alt="Schematic diagram of cable set 1" src="schematic_diagram/schematic_diagram_of_cables_set_1.JPG" />
@@ -80,7 +80,7 @@ Structurally, the connector is made in a compact enclosure containing connectors
 | Part 1 — 3D printed | 1 pc |  |
 | Part 2 — 3D printed | 1 pc |  |
 
-## Set 2 — Peripheral
+## Set 2 - Peripheral
 
 This set is intended for connecting peripheral devices to the station control unit and the external unit.
 
@@ -110,7 +110,7 @@ The beginning of the cable is connected to the external unit concentrator, and t
 <ul>
 <li>When manufacturing the cables, the cable shield must be connected to the common ground only on one side of the connector to prevent ground loop formation.</li>
 
-<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing. The heat-shrink tubing color also indicates the cable type (yellow color — VRX block connection cables).</li>
+<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing. The heat-shrink tubing color also indicates the cable type (yellow color - VRX block connection cables).</li>
 
 <li>When manufacturing the cables, the connector housing inlet must be enlarged with a file according to the cable diameter.</li>
 </ul>
@@ -140,7 +140,7 @@ The beginning of the cable connecting the TX unit to the external unit concentra
 <ul>
 <li>When manufacturing the cables, the cable shield must be connected to the common ground only on one side of the connector to prevent ground loop formation.</li>
 
-<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing. The heat-shrink tubing color also indicates the cable type (blue color — control subsystem cables).</li>
+<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing. The heat-shrink tubing color also indicates the cable type (blue color - control subsystem cables).</li>
 
 <li>When manufacturing the cables, the connector housing inlet must be enlarged with a file according to the cable diameter.</li>
 </ul>
