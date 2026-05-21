@@ -131,7 +131,7 @@ This type of cable is used for connecting:
 <li>TX unit (short cable)</li>
 </ul>
 
-<img width="800" alt="Schematic diagram of control subsystem cables" src="schematic_diagram/schematic_diagram_of_control_subsystem_cables.JPG" />
+<img width="800" alt="Schematic diagram of control subsystem cables" src="schematic_diagram/schematic_diagram_of_the_control_subsystem_cables_set_2.JPG" />
 
 The beginning of the cable connecting the TX unit to the external unit concentrator must be connected to the concentrator, while the end must be connected to the TX unit.
 
