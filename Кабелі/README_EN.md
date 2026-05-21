@@ -31,7 +31,7 @@ This set is designed for the internal connection of the control subsystem compon
 <li>When manufacturing cables, the entry hole of the connector housings must be enlarged with a needle file to the diameter of the cable used.</li>
 </ul>
 
-<img width="600" alt="Soldering the connector on a Set 1 cable" src="picture/view_of_soldered_connector.jpg" />
+<img width="600" alt="Soldering the connector on a Set 1 cable" src="picture/view_of_soldered_cable_connectors_set_2.jpg" />
 
 ## List of Required Components for Manufacturing Cables
 
