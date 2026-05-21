@@ -2,8 +2,6 @@
 
 # Cables
 
-## General description of the “Cables” section
-
 Shielded multi-core twisted pair copper cables are used to connect the station control unit with the external unit, as well as to connect peripheral devices to them.
 
 ## Set 1 - Main cable set
