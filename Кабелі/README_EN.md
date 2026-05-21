@@ -12,7 +12,7 @@ This set is designed to connect the control unit and the remote unit of the stat
 
 The start of the standard main cable is connected to the control unit, and its end to the remote unit concentrator.
 
-A cable joiner (coupler) is used to connect the standard main cable to an additional one. The end of the standard main cable is connected to one connector of the coupler, and the start of the additional main cable to the second connector; the end of the additional main cable is connected to the remote unit concentrator accordingly.
+For connecting the standard main cable to an additional one, a cable joiner (coupler) is used. The end of the standard main cable is connected to one connector of the coupler, and the start of the additional main cable to the second connector of the coupler; the end of the additional main cable is connected to the remote unit concentrator accordingly.
 
 <img width="800" alt="Принципова схема з'єднувача кабелів" src="schematic_diagram/schematic_diagram_of_the_cable_coupler.JPG" />
 
@@ -33,7 +33,7 @@ This set is designed for the internal connection of the control subsystem compon
 <li>When manufacturing cables, the entry hole of the connector housings must be enlarged with a needle file to the diameter of the cable used.</li>
 </ul>
 
-<img width="600" alt="Запайка роз'єму на кабелі комплекту 1" src="picture/view_of_soldered_connector.jpg" />
+<img width="600" alt="Запайка роз'єму на кабелі комплекту 1" src="picture/view_of_soldered_cable_connectors_set_2.jpg" />
 
 ## List of Required Components for Manufacturing Cables
 
@@ -41,5 +41,14 @@ This set is designed for the internal connection of the control subsystem compon
 | :--- | :--- | :---: |
 | GX20-8 pin Cable Socket (female) | 2 pcs | For the standard main cable |
 | GX12-6 pin Cable Socket (female) | 4 pcs | For control subsystem cables and coupler |
+| GX12-6 pin Panel Mount Plug (male) | 2 pcs | For cable coupler |
 | Shielded multi-core copper cable | as needed | Flexible twisted pair, e.g., LiYCY |
 | Heat shrink tubing (various colors) | as needed | For marking the "start" of the cable |
+
+## Wire Consumption Details
+
+| Type | Length | Note |
+| :--- | :--- | :---: |
+| Shielded copper cable LiYCY 8x0.25 | 2000 mm | Standard main cable |
+| Shielded copper cable LiYCY 4x0.25 | 250 mm | Cable for TX unit |
+| Shielded copper cable LiYCY 4x0.25 | 1500 mm | Cable for JR module |
