@@ -6,9 +6,7 @@
 
 Shielded multi-core twisted pair copper cables are used to connect the station control unit with the external unit, as well as to connect peripheral devices to them.
 
----
-
-# Set 1 — Main cable set
+## Set 1 — Main cable set
 
 This set is intended for connecting the station control unit with the external unit.
 
@@ -53,9 +51,7 @@ The maximum cable length depends on the cable type:
 
 <img width="600" alt="View of soldered connectors of cable set 1" src="picture/view_of_soldered_cable_connectors_set_1.jpeg" />
 
----
-
-## Required components for manufacturing one standard main cable
+### Required components for manufacturing one standard main cable
 
 | Item | Quantity | Note |
 | :--- | :--- | :---: |
@@ -63,9 +59,7 @@ The maximum cable length depends on the cable type:
 | GX20-8 pin cable connector (female) | 2 pcs |  |
 | Heat-shrink tubing | As required | Cable marking |
 
----
-
-# Cable connector for Set 1
+## Cable connector for Set 1
 
 <img width="800" alt="Schematic diagram of cable connector for set 1" src="schematic_diagram/schematic_diagram_of_the_cable_connector_set_1.JPG" />
 
@@ -86,9 +80,7 @@ Structurally, the connector is made in a compact enclosure containing connectors
 | Part 1 — 3D printed | 1 pc |  |
 | Part 2 — 3D printed | 1 pc |  |
 
----
-
-# Set 2 — Peripheral
+## Set 2 — Peripheral
 
 This set is intended for connecting peripheral devices to the station control unit and the external unit.
 
@@ -101,9 +93,7 @@ The set includes:
 
 <img width="600" alt="General view of cable set 2" src="picture/general_view_of_cables_set_2.jpg" />
 
----
-
-# VRX block connection cables
+## VRX block connection cables
 
 Depending on the station configuration, two cable variants can be used. They differ by the ability to transmit control signals to the VRX block.
 
@@ -132,9 +122,7 @@ The beginning of the cable is connected to the external unit concentrator, and t
 | LAPP UNITRONIC LiYCY (TP) 2x2x0.25 or LAPP UNITRONIC LiYCY (TP) 3x2x0.14 | 120 mm |  |
 | GX12-6 pin cable connector (female) | 2 pcs |  |
 
----
-
-# Control subsystem cables
+## Control subsystem cables
 
 This type of cable is used for connecting:
 
