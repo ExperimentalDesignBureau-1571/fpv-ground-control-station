@@ -1,6 +1,5 @@
 [🇺🇸 Read in English](README_EN.md) | [🇺🇦 Читати Українською](README.md)
 
-Markdown
 # Universal Frame
 
 The universal frame is designed for the mounting and mechanical integration of the remote unit concentrator and peripheral devices. The remote unit concentrator, along with the peripheral devices installed on the universal frame, forms the ground station's remote unit.
