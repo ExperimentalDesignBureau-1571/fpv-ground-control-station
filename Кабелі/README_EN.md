@@ -14,6 +14,8 @@ This set is intended for connecting the station control unit with the external u
 
 The standard main cable has a length of 2 meters and is stored inside the station case during transportation.
 
+<img width="600" alt="General view of cable set 1" src="picture/general_view_of_cables_set_1.jpg" />
+
 Depending on operational requirements, the set can be supplemented with additional main cables, for example:
 
 <ul>
