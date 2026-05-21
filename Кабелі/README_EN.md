@@ -2,53 +2,162 @@
 
 # Cables
 
-To connect the control unit with the remote unit of the station, as well as to connect peripheral devices to them, cables made of shielded multi-core copper twisted pair are used.
+## General description of the “Cables” section
 
-## Set 1 - Main Trunk
+Shielded multi-core twisted pair copper cables are used to connect the station control unit with the external unit, as well as to connect peripheral devices to them.
 
-This set is designed to connect the control unit and the remote unit of the station. The standard main cable is 2 meters long and is placed in the station case in the transport position. Depending on the tasks, the set can be supplemented with additional main cables, for example, a 5-8 meter cable for working with a repeater from cover, and 25-50 meters for stationary operation from cover.
+---
 
-<img width="600" alt="Загальний вигляд кабелів комплекту 1" src="picture/general_view_of_cables_set_1.jpg" />
+# Set 1 — Main cable set
 
-The start of the standard main cable is connected to the control unit, and its end to the remote unit concentrator.
+This set is intended for connecting the station control unit with the external unit.
 
-For connecting the standard main cable to an additional one, a cable joiner (coupler) is used. The end of the standard main cable is connected to one connector of the coupler, and the start of the additional main cable to the second connector of the coupler; the end of the additional main cable is connected to the remote unit concentrator accordingly.
+The standard main cable has a length of 2 meters and is stored inside the station case during transportation.
 
-<img width="800" alt="Принципова схема з'єднувача кабелів" src="schematic_diagram/schematic_diagram_of_the_cable_coupler.JPG" />
+Depending on operational requirements, the set can be supplemented with additional main cables, for example:
 
-In case of using a repeater, the end of the standard main cable is connected to the repeater input, and the start of the additional main cable to the repeater output; the end of the additional main cable is connected to the remote unit concentrator.
-
-<img width="800" alt="Принципова схема кабелів комплекту 1" src="schematic_diagram/schematic_diagram_of_cables_set_1.JPG" />
-
-## Set 2 - Control Subsystem
-
-This set is designed for the internal connection of the control subsystem components. The set consists of two cables: for the JR module (long cable) and the TX unit (short cable). The start of the cable connecting the JR module for the control transmitter to the station control unit is connected to the control unit, and the end to the JR module. The start of the cable connecting the TX unit to the remote unit concentrator is connected to the concentrator, and the end to the TX unit.
-
-<img width="800" alt="Принципова схема кабелів підсистеми керування комплекту 2" src="schematic_diagram/schematic_diagram_of_the_control_subsystem_cables_set_2.JPG" />
-
-### Please Note!
 <ul>
-<li>When manufacturing cables, the cable shield is connected to the common wire (GND) on the connector only on one side to prevent ground loops.</li>
-<li>The side of the cable where the shield is connected to the common wire is the start of the cable. The start of the cable is marked with heat shrink tubing, while the color of the heat shrink also indicates the cable type (blue color - control subsystem cables).</li>
-<li>When manufacturing cables, the entry hole of the connector housings must be enlarged with a needle file to the diameter of the cable used.</li>
+<li>5–8 meter cable for relay operation from cover</li>
+<li>25–50 meter cable for stationary operation from cover</li>
 </ul>
 
-<img width="600" alt="Запайка роз'єму на кабелі комплекту 1" src="picture/view_of_soldered_cable_connectors_set_2.jpg" />
+The following cable types can be used for manufacturing the main cable set:
 
-## List of Required Components for Manufacturing Cables
+<ul>
+<li>RVSP twisted pair 8x0.5 mm² / 20 AWG</li>
+<li>RVSP twisted pair 8x0.3 mm² / 22 AWG</li>
+<li>LAPP UNITRONIC LiYCY (TP) 4X2X0.5</li>
+<li>LAPP UNITRONIC LiYCY (TP) 4X2X0.25</li>
+</ul>
 
-| Name | Quantity | Note |
+The maximum cable length depends on the cable type:
+
+<ul>
+<li>for cables with a conductor cross-section of 0.5 mm² — maximum length up to 50 meters</li>
+<li>for cables with a conductor cross-section of 0.25–0.3 mm² — maximum length up to 25 meters</li>
+</ul>
+
+<img width="800" alt="Schematic diagram of cable set 1" src="schematic_diagram/schematic_diagram_of_cables_set_1.JPG" />
+
+### Please note!
+
+<ul>
+<li>When manufacturing the cables, the cable shield must be connected to the common ground only on one side of the connector to prevent ground loop formation.</li>
+
+<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing.</li>
+
+<li>When using cables with a 0.5 mm² conductor cross-section, the connector housing inlet must be enlarged with a file according to the cable diameter.</li>
+</ul>
+
+<img width="600" alt="View of soldered connectors of cable set 1" src="picture/view_of_soldered_cable_connectors_set_1.jpeg" />
+
+---
+
+## Required components for manufacturing one standard main cable
+
+| Item | Quantity | Note |
 | :--- | :--- | :---: |
-| GX20-8 pin Cable Socket (female) | 2 pcs | For the standard main cable |
-| GX12-6 pin Cable Socket (female) | 4 pcs | For control subsystem cables and coupler |
-| GX12-6 pin Panel Mount Plug (male) | 2 pcs | For cable coupler |
-| Shielded multi-core copper cable | as needed | Flexible twisted pair, e.g., LiYCY |
-| Heat shrink tubing (various colors) | as needed | For marking the "start" of the cable |
+| RVSP twisted pair 8x0.5 mm² / 20 AWG or equivalent cable | 2 meters | Main cable |
+| GX20-8 pin cable connector (female) | 2 pcs |  |
+| Heat-shrink tubing | As required | Cable marking |
 
-## Wire Consumption Details
+---
 
-| Type | Length | Note |
+# Cable connector for Set 1
+
+<img width="800" alt="Schematic diagram of cable connector for set 1" src="schematic_diagram/schematic_diagram_of_the_cable_connector_set_1.JPG" />
+
+Structurally, the connector is made in a compact enclosure containing connectors interconnected according to the corresponding electrical schematic.
+
+<img width="600" alt="Cable connector assembly example" src="picture/connector_assembly_example.jpg" />
+
+### Required components for manufacturing one connector
+
+| Item | Quantity | Note |
 | :--- | :--- | :---: |
-| Shielded copper cable LiYCY 8x0.25 | 2000 mm | Standard main cable |
-| Shielded copper cable LiYCY 4x0.25 | 250 mm | Cable for TX unit |
-| Shielded copper cable LiYCY 4x0.25 | 1500 mm | Cable for JR module |
+| GX20-8 pin panel connector (male) | 2 pcs |  |
+| 20 AWG copper wire with silicone insulation, red | 110 mm |  |
+| 20 AWG copper wire with silicone insulation, black | 440 mm |  |
+| 20 AWG copper wire with silicone insulation, yellow | 330 mm |  |
+| M3x40 DIN 965 screw | 4 pcs |  |
+| M3 DIN 934 nut | 4 pcs |  |
+| Part 1 — 3D printed | 1 pc |  |
+| Part 2 — 3D printed | 1 pc |  |
+
+---
+
+# Set 2 — Peripheral
+
+This set is intended for connecting peripheral devices to the station control unit and the external unit.
+
+The set includes:
+
+<ul>
+<li>VRX block connection cables (yellow heat-shrink marking)</li>
+<li>control subsystem cables (blue heat-shrink marking)</li>
+</ul>
+
+<img width="600" alt="General view of cable set 2" src="picture/general_view_of_cables_set_2.jpg" />
+
+---
+
+# VRX block connection cables
+
+Depending on the station configuration, two cable variants can be used. They differ by the ability to transmit control signals to the VRX block.
+
+If the VRX block is controlled manually or via ELRS Backpack, the first cable variant is used.
+
+If control is performed through the ground station communication lines, the second cable variant is used.
+
+The beginning of the cable is connected to the external unit concentrator, and the end of the cable is connected to the VRX block.
+
+<img width="800" alt="Schematic diagram of VRX block connection cables set 2" src="schematic_diagram/schematic_diagram_of_cables_VRX_blocks_set_2.JPG" />
+
+### Please note!
+
+<ul>
+<li>When manufacturing the cables, the cable shield must be connected to the common ground only on one side of the connector to prevent ground loop formation.</li>
+
+<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing. The heat-shrink tubing color also indicates the cable type (yellow color — VRX block connection cables).</li>
+
+<li>When manufacturing the cables, the connector housing inlet must be enlarged with a file according to the cable diameter.</li>
+</ul>
+
+### Required components for manufacturing one VRX block connection cable
+
+| Item | Quantity | Note |
+| :--- | :--- | :---: |
+| LAPP UNITRONIC LiYCY (TP) 2x2x0.25 or LAPP UNITRONIC LiYCY (TP) 3x2x0.14 | 120 mm |  |
+| GX12-6 pin cable connector (female) | 2 pcs |  |
+
+---
+
+# Control subsystem cables
+
+This type of cable is used for connecting:
+
+<ul>
+<li>JR module adapter for the radio controller (long cable)</li>
+<li>TX unit (short cable)</li>
+</ul>
+
+<img width="800" alt="Schematic diagram of control subsystem cables" src="schematic_diagram/schematic_diagram_of_control_subsystem_cables.JPG" />
+
+The beginning of the cable connecting the TX unit to the external unit concentrator must be connected to the concentrator, while the end must be connected to the TX unit.
+
+### Please note!
+
+<ul>
+<li>When manufacturing the cables, the cable shield must be connected to the common ground only on one side of the connector to prevent ground loop formation.</li>
+
+<li>The side of the cable where the shield is connected to the common ground is considered the beginning of the cable. The cable beginning is marked with heat-shrink tubing. The heat-shrink tubing color also indicates the cable type (blue color — control subsystem cables).</li>
+
+<li>When manufacturing the cables, the connector housing inlet must be enlarged with a file according to the cable diameter.</li>
+</ul>
+
+### Required components for manufacturing one control subsystem cable set
+
+| Item | Quantity | Note |
+| :--- | :--- | :---: |
+| LAPP UNITRONIC LiYCY (TP) 2x2x0.25 | 1120 mm | 1000 mm — long cable, 120 mm — short cable |
+| GX12-6 pin cable connector (female) | 4 pcs |  |
