@@ -54,8 +54,8 @@ The copper heatsink is connected to the common wire and forms additional shieldi
 | Name | Quantity | Note |
 |:---: | :---: | :---: |
 | Flight controller with AT7456E | 1 pc | | 
-| M3*8 mm damping standoff for flight controller | 4 pcs | | 
-| M3*4 mm damping standoff for flight controller | 4 pcs | | 
+| M3x8 mm damping standoff for flight controller | 4 pcs | | 
+| M3x4 mm damping standoff for flight controller | 4 pcs | | 
 | M3x18 DIN 7985 A2 Screw | 4 pcs | Fastening the flight controller and cooling radiator to the monitor housing | 
 | M3 DIN 934 Nut | 4 pcs | Fastening the flight controller and cooling radiator to the monitor housing | 
 | 4 mm Silicone thermal pad 3.5W/m.k | 25 mm x 20 mm | Heat dissipation from AT7456E and STM32 chips to the copper radiator | 
