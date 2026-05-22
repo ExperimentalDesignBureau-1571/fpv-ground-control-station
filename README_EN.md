@@ -17,7 +17,7 @@ It is recommended to follow this assembly and manufacturing order:
 1.	**[Universal Case and Station Body](Універсальний_кейс_та_корпус_станції/)**
 2.	**[Station Control Unit](Блок_керування_станцією/)**
 3.	**[Monitor Modification](Модернізація_монітора/)**
-4.	**[External Unit](Виносний_блок/)**
+4.	**[Remote Unit](Виносний_блок/)**
 5.	**[VRX Modules](Блоки_VRX/)**
 6.	**[Control Subsystem](Підсистема%20керування/)**
 7.	**[Cables](Кабелі/)**
