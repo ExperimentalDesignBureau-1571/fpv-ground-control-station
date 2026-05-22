@@ -4,7 +4,7 @@
 
 The remote unit is a functional node of the ground control station designed for the integration of video signal reception systems, control signal transmission, as well as antenna-feeder equipment. The remote unit is a modular platform and allows for configuration changes depending on the task, type of video system, or operating conditions.
 
-<img width="800" alt="Remote unit architecture" src="remote_unit_architecture.JPG" />
+<img width="800" alt="Remote unit architecture" src="remote_unit_architecture_en.JPG" />
 
 The design of the remote unit provides:
 - mechanical and electrical integration of remote unit peripheral devices
