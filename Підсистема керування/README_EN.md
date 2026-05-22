@@ -27,7 +27,7 @@ The control subsystem includes:
 
 The control signal from the remote controller goes to the JR module adapter, where it is converted into a differential RS-485 signal. Then, the signal is transmitted through the ground station's communication lines to the TX unit, where reverse conversion into a CRSF protocol signal occurs before being fed to the control transmitter. The return channel (telemetry) works similarly in the opposite direction.
 
-<img width="800" alt="Control subsystem architecture block diagram" src="control_subsystem_architecture_block_diagram.JPG" />
+<img width="800" alt="Control subsystem architecture block diagram" src="control_subsystem_architecture_block_diagram_en.JPG" />
 
 Detailed implementation of each device in the control subsystem is provided in the relevant sections:
 
