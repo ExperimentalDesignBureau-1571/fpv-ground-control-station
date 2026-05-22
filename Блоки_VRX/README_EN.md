@@ -19,7 +19,7 @@ VRX units provide:
 - Digital video receiving systems in combination with a video signal converter
 - Video receiver control via the ground station's communication lines
 
-<img width="800" alt="VRX units architecture block diagram" src="VRX_block_architecture.JPG" />
+<img width="800" alt="VRX units architecture block diagram" src="VRX_block_architecture_en.JPG" />
 
 ### Implementation Features:
 - All VRX units have a unified connection to the remote unit concentrator
